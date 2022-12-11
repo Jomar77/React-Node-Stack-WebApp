@@ -7,7 +7,7 @@ import { AuthContext } from "../context/authContext";
 const Login = () => {
   const [inputs, setInputs] = useState({
     username: "",
-    password: "",
+    password: "",  
   });
   const [err, setError] = useState(null);
 
@@ -24,7 +24,7 @@ const Login = () => {
     e.preventDefault();
     try {
       await login(inputs)
-      navigate("/");
+      navigate("/posts");
     } catch (err) {
       setError(err.response.data);
     }
