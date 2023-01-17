@@ -2,7 +2,7 @@
 This is a web application built using the React JavaScript library for the front-end and Node.js for the back-end.
 
 ## Installation
-1. Clone the repository: git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+1. Clone the repository: git clone https://github.com/React-Node-Stack_WebApp.git
 2. Install the dependencies: npm install (in the root directory and also in the client folder)
 2. Start the development server: npm run dev (this will run both client and server)
 
