@@ -1,4 +1,5 @@
 # React-Node Stack Web App
+![image](https://github.com/jomar77/React-Node-Stack-WebApp/blob/main/untitled.png?raw=true)
 This is a web application built using the React JavaScript library for the front-end and Node.js for the back-end.
 
 ## Installation
